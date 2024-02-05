@@ -1,10 +1,9 @@
+let age: number = 20;
 
-// console.log("This is TypeScript !");
+ if (age < 50)
+    age += 10;
 
-// let age: number = 70;
-
-// let age: number = 70;
-
+    
 
 
 
