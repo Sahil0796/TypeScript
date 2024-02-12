@@ -57,6 +57,10 @@ let user: [number, string,] = [1, "Sahil"];
 // user[0].valueOf
 
 
+// Enums : 
+
+
+
 
 
 
